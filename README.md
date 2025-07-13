@@ -30,7 +30,7 @@ This project "Proj_12B_Breast_Cancer_Neural_Network" uses a neural network-based
     - Install necessary libraries:
 
         pip install -r requirements.txt
-        ```
+        
 
 
   **View Results:**
